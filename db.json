@@ -1,0 +1,45 @@
+{
+    "activities": [
+      {
+        "id": 1,
+        "title": "Shape Matching Game",
+        "description": "Match the shapes to their corresponding outlines.",
+        "image": "https://i.pinimg.com/736x/47/af/6c/47af6c9c5ed68d69b86ed11cdad06365.jpg",
+        "type": "matching",
+        "difficulty": "easy"
+      },
+      {
+        "id": 2,
+        "title": "Animal Sounds Puzzle",
+        "description": "Solve the puzzle to hear different animal sounds.",
+        "image": "https://static.wixstatic.com/media/67e7fd_76c3407bbb1144ffa033f856c3871e48~mv2.jpg/v1/fill/w_500,h_500,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/67e7fd_76c3407bbb1144ffa033f856c3871e48~mv2.jpg",
+        "type": "puzzle",
+        "difficulty": "medium"
+      },
+      {
+        "id": 3,
+      "title": "Interactive Storybook",
+      "description": "Read and interact with a story to improve language skills.",
+      "image": "https://www.scottishbooktrust.com/uploads/store/mediaupload/6406/image/m_limit-Pop%20up%20book%20image%203.jpg",
+      "type": "story",
+      "difficulty": "easy"
+      },
+      {
+        "id": 4,
+        "title": "Color and Draw",
+        "description": "Color various pictures and practice drawing.",
+        "image": "https://www.tipitap.com/images/color_draw.png",
+        "type": "art",
+        "difficulty": "easy"
+      },
+      {
+        "id": 5,
+        "title": "Memory Card Game",
+        "description": "Enhance memory by finding matching cards.",
+        "image": "https://i5.walmartimages.com/seo/hand2mind-Express-Your-Feelings-Memory-Match-Game-Emotion-Cards-for-Kids-Matching-Card-Game_64106d57-97ec-4710-b2da-e5001d3e68f3.1533fcb207319500b33727a835bfc712.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+        "type": "memory",
+        "difficulty": "medium"
+      }
+    ]
+  }
+  
